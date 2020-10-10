@@ -12,22 +12,23 @@ The output folder contains 2 CSV files resulting from the workbook.
 
 ### Cleaning the data by:
 
-    Dropping NaN values from DataFrame
-    Removing rows based on conditions
-    Change the type of columns (to_numeric, to_datetime, astype)
+Dropping NaN values from DataFrame
+Removing rows based on conditions
+Change the type of columns (to_numeric, to_datetime, astype)
 
 ### Data exploration by solving questions such as:
-    * What month did most sales take place?
-    What city sold the most product?
-    What time should we increase staff to handle increased demand?
+
+What month did most sales take place?
+What city sold the most product?
+What time should we increase staff to handle increased demand?
 
 ### Pandas & matplotlib methods used:
-    Concatenating multiple csvs together to create a new DataFrame (pd.concat)
-    Adding columns
-    Parsing cells as strings to make new columns (.str)
-    Using the .apply() method
-    Using groupby to perform aggregate analysis
-    Plotting bar charts and lines graphs to visualize our results
-    Labeling our graphs
+Concatenating multiple csvs together to create a new DataFrame (pd.concat)
+Adding columns
+Parsing cells as strings to make new columns (.str)
+Using the .apply() method
+Using groupby to perform aggregate analysis
+Plotting bar charts and lines graphs to visualize our results
+Labeling our graphs
 
 
