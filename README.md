@@ -12,9 +12,9 @@ The output folder contains 2 CSV files resulting from the workbook.
 
 ### Cleaning the data by:
 
->Dropping NaN values from DataFrame
-Removing rows based on conditions
-Change the type of columns (to_numeric, to_datetime, astype)
+* Dropping NaN values from DataFrame
+* Removing rows based on conditions
+* Change the type of columns (to_numeric, to_datetime, astype)
 
 ### Data exploration by solving questions such as:
 
