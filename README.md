@@ -12,12 +12,12 @@ The output folder contains 2 CSV files resulting from the workbook.
 
 ### Cleaning the data by:
 
-    Drop NaN values from DataFrame
-    Removing rows based on a condition
+    Dropping NaN values from DataFrame
+    Removing rows based on conditions
     Change the type of columns (to_numeric, to_datetime, astype)
 
 ### Data exploration by solving questions such as:
-    What month did most sales take place?
+    * What month did most sales take place?
     What city sold the most product?
     What time should we increase staff to handle increased demand?
 
