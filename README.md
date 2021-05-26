@@ -8,6 +8,8 @@ The folder contains a Jupyter notebook, an input and output folder.
 The input folder contains sales .CSV files for each month of 2019.
 The output folder contains 2 CSV files resulting from the workbook.
 
+![](/download2.png)
+
 ## The process
 
 ### Cleaning the data by:
